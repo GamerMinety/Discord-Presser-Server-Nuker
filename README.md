@@ -1,8 +1,8 @@
-# [OUTDATED] Presser: 7teen Server Nuker
+#  CYANIDE : CYANIDE Server Nuker
 
-| Presser | 
+| CYANIDES ON TOP  | 
 | ------------- | 
-| ![Presser](https://media.discordapp.net/attachments/840525480331575328/886687168452509786/unknown.png) |
+| ![CYANIDE](https://media.discordapp.net/attachments/1291393329807757454/1294949380343730199/standard_2.gif?ex=670cdf17&is=670b8d97&hm=7d145685474fe5581061096154fbd9caf2d32e81d0955059a64ae3e56063bf43&=&width=637&height=225) |
 
 ![](https://img.shields.io/github/watchers/17teen/Discord-Presser-Server-Nuker?style=social) ![](https://img.shields.io/github/stars/17teen/Discord-Presser-Server-Nuker?style=social) ![](https://img.shields.io/github/forks/17teen/Discord-Presser-Server-Nuker?style=social)
 
@@ -17,18 +17,6 @@
 8. `Kick All Members`
 9. `Delete All Stickers` **(NEW)**
 
-# Show Case: 
-
-| Mass Delete Channels | Mass Create Channels | Mass Roles |
-| ------------- | ------------- | ------------- |
-| ![mass delete 1](https://user-images.githubusercontent.com/71920969/94821935-0b3a2780-03fa-11eb-8a43-3fb418e373ba.gif) | ![mass channels lol](https://user-images.githubusercontent.com/71920969/94822362-7683f980-03fa-11eb-9759-906d649b6021.gif) | ![massroles](https://media3.giphy.com/media/StXIhkIQKb8sEdXjPj/giphy.gif) |
-
-### Mass Ping:
-![mass ping lol](https://user-images.githubusercontent.com/71920969/94822656-cb277480-03fa-11eb-97ee-44562785397f.gif)
-
-### Help:
-![help](https://media.discordapp.net/attachments/840525480331575328/886686333307879474/unknown.png)
-
 
 # Requirements Before Set-up:
 
@@ -41,9 +29,7 @@
 2. Go to the "Bot" section and scroll down till you see "Privileged Gateway Intents".
 3. Select both **Presence Intent**, **Server Members Intent** and **Message Content Intents**. 
 
-### Example
 
-![intents](https://media.discordapp.net/attachments/782211920416735252/789810856460419092/unknown.png?width=1409&height=400)
 
 
 ### Linux Set-up:
@@ -53,7 +39,6 @@
 3. Next, you'll have to install discord.js, in that same terminal type `npm install discord.js@13.1.0 chalk`, this will install discord.js and chalk.
 4. Start the bot by typing `node .` or `node index.js`
 
-![linuxDistro](https://cdn.discordapp.com/attachments/864811547397062656/876212001859309629/presser.gif)
 
 # Set-up: Script
 
@@ -67,11 +52,10 @@
 ### Extra:
 * `disableEveryone` | Default set to `true`, add your user ID | Makes sure no one else can use the tool. Set to `false` if you wish.  
 
-> ![disable](https://media.discordapp.net/attachments/840525480331575328/886693417369890826/unknown.png)
 
 ## Start-up:
 
-1. Navigate to the "src" folder, run the `presser.bat` file.
+1. Navigate to the "src" folder, run the `cyanide.bat` file.
 
 # Disclaimer
 
