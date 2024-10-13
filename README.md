@@ -1,4 +1,4 @@
-#  CYANIDE : CYANIDE Server Nuker
+#  CYANIDE : Minety's Server Nuker
 
 | CYANIDES ON TOP  | 
 | ------------- | 

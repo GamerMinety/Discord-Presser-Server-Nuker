@@ -1,5 +1,5 @@
 @echo off
-title Presser Beta
+title Cyanide Beta
 
 if exist node_modules\ (
   echo You've already installed this

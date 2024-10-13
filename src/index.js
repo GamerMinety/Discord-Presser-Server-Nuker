@@ -1,6 +1,6 @@
 /**
  * Presser Beta
- * @author 7teen
+ * @author Minety
  */
 const { Client, Intents, MessageEmbed } = require("discord.js");
 const nuker = new Client({ intents: Object.values(Intents.FLAGS).reduce((a, b) => a + b) });
@@ -27,14 +27,14 @@ nuker.on("ready", () => {
                     Nuker: ${nuker.user.tag}
                     Prefix: ${prefix}
     `))
-    nuker.user.setActivity({ name: "Presser Beta", type: "PLAYING" });
+    nuker.user.setActivity({ name: "CYANIDE", type: "PLAYING" });
 });
 
 nuker.on("messageCreate", (message) => {
 
     // Help Embed
     const help = new MessageEmbed()
-        .setDescription(`**Presser Beta ;**
+        .setDescription(`**CYANIDE Nuker ;**
     \n**mass channels ;**
     ${prefix}mc [amount] (text) i.e \`${prefix}mc 5 test\`\n
     **mass channel n ping ;**
@@ -54,7 +54,7 @@ nuker.on("messageCreate", (message) => {
     **mass ban ;**
     ${prefix}mb
     `)
-        .setFooter(`© Presser Beta`)
+        .setFooter(`© CYANIDE Nuker`)
         .setColor(0x36393E)
         .setTimestamp(Date.now());
 
